@@ -1,39 +1,53 @@
 ⭐ Hi, I’m Subharup
-<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&pause=800&color=FF9AAE&center=false&vCenter=true&width=435&lines=AI+Automation.+RAG.+GenAI.+LLMs.;Full-Stack+Engineering.;Building+Things+That+Feel+Magical." />
+AI Automation • GenAI • RAG • LLMs • Full-Stack Engineering
 
-I love creating things that automate the boring, enhance intelligence, and feel magical.
-My work revolves around AI automation, RAG pipelines, LLM systems, and scalable full-stack apps.
+I love building things that automate the boring, enhance intelligence, and feel magical.
+My focus is on AI automation, RAG pipelines, LLM-powered systems, and full-stack applications that scale cleanly.
 
-✨ If an idea excites me, I ship it.
+If an idea excites me, I ship it.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="90"> </p>
-🎨 Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/Python-%23ff9a9e?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-%23fbc2eb?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-%23fad0c4?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-%23a18cd1?style=for-the-badge&logo=express&logoColor=white"> <br> <img src="https://img.shields.io/badge/React-%23ff9a9e?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-%23fbc2eb?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind-%23fad0c4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <br> <img src="https://img.shields.io/badge/Pinecone-%23a18cd1?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-%23ff9a9e?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%23fbc2eb?style=for-the-badge&logo=mongodb&logoColor=white"> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="90"> </p>
-🌈 What I Do
+🚀 Tech Stack
+
+AI & Backend
+
+Python · FastAPI · Node.js · Express
+
+RAG · LLMs · Pinecone · Vector Search
+
+Frontend
+
+React · Next.js · TailwindCSS
+
+HTML · CSS · JavaScript
+
+Databases
+
+MySQL · MongoDB
+
+🎯 What I Do
 
 Build AI automation tools
 
-Create RAG + LLM-powered applications
+Create RAG + LLM powered applications
 
-Develop full-stack systems end-to-end
+Develop full-stack projects end-to-end
 
-Blend engineering + intelligence into real products
+Explore ways to merge engineering + intelligence
 
-💫 Fun Facts About Me
+✨ Fun Facts About Me
 
 I love anime
 
-Gym 3× a week
+Gym 3x a week
 
-Automation fascinates me
+Automation fascinates me more than anything
 
-I’m a fast prototyper — build → test → polish
+I enjoy building ideas fast and improving them later
 
 📌 Pinned Work
 
-Will show automatically when you pin repos —
-Projects I’ll showcase soon:
+(These sections will auto-show when you pin repos on GitHub.)
+Showcase things like:
 
 AI tools
 
@@ -41,24 +55,26 @@ RAG systems
 
 Automation workflows
 
-Full-stack builds
+Full-stack projects
 
 📬 Let’s Connect
-<p align="center"> <a href="https://www.linkedin.com/in/subharup-nandi-776293353/"> <img src="https://img.shields.io/badge/LinkedIn-%23a18cd1?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <br> ✉️ **Email:** subharupn@gmail.com </p>
+
+Add your LinkedIn link here
+
+Add your email (optional)
+
 🧠 Current Focus
 
-Building reliable AI systems
+Improving at building reliable, production-ready AI systems
 
 Learning deeper GenAI concepts
 
-Strengthening full-stack engineering
+Strengthening frontend + backend fundamentals
 
-Creating projects that feel genuinely smart
+Building more projects that feel “smart”
 
 🔥 My Goal
 
 Become a developer who can:
-
-🎯 Design → Build → Automate → Ship
-
+Design → Build → Automate → Ship
 using AI + full-stack engineering.
